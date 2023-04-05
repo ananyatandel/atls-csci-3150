@@ -4,9 +4,9 @@
 /* form styling */
 
 select:focus, select:active, input:focus, input:active, input:focus+label,
-input:active+label,label[for]:focus, label[for]:active{
-    color: #fff;
-    background-color: #BB3D2F;
+input:active+label,label[for]:focus, label[for]:active {
+    color: #000000;
+    background-color: #C3B1E1;
 }
 
 #wrapper {
@@ -35,7 +35,7 @@ label {
 }
 
 #formcol1 input.reqfield{
-    background: #FF9;
+    background: #FFFF00;
 }
 .submit-button input[type="submit"]{
     border-radius: 30px; /* Add rounded corners with a radius of 5 pixels */
